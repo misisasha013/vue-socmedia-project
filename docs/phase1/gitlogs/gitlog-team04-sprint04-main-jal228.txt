@@ -1,0 +1,37 @@
+14aacbd - Jack Lamb, 9 minutes ago : docs/phase1/README.md edited online with Bitbucket
+a6e8ed7 - jal228, 28 minutes ago : updated procfile
+73b0fcb - Jack Lamb, 36 minutes ago : Merged in backend (pull request #8)
+e0d4e16 - misisasha013, 37 minutes ago : Made some unit tests
+a16f750 - 徐习原, 59 minutes ago : Update frontend
+452a7f2 - jal228, 2 hours ago : Fixed the packagejson, npm run deploy script added
+53f76d0 - Jack Lamb, 4 hours ago : Merged in backend (pull request #7)
+ae0f0a5 - misisasha013, 6 hours ago : Made some unit tests
+68b6c55 - jal228, 27 hours ago : now fixed gitlogs
+d995848 - jal228, 27 hours ago : updated gitlogs officially, hopefully
+590b73e - Jack Lamb, 27 hours ago : Merged in admin (pull request #6)
+abd46ad - jal228, 27 hours ago : Updated git logs
+84cbe3d - Jack Lamb, 28 hours ago : Merged Jack-Lamb/edited-the-phase1-readme-1771892973736 into main
+c43f2dd - Jack Lamb, 28 hours ago : edited the phase1 readme
+5727499 - jal228, 28 hours ago : Updated git ignore, and installed frontend, using mvn clean package
+4ebf14e - jal228, 28 hours ago : Added phase 1 docs and readme  and disables admin tests for Postgres
+58ac747 - jal228, 28 hours ago : Add dokku-team-04 to gitignore
+f5272c7 - jal228, 31 hours ago : Merge remote changes
+798ec38 - jal228, 31 hours ago : Added git logs for each 4 of us
+444e85c - Jack Lamb, 32 hours ago : Merged Jack-Lamb/submissionsmd-edited-fixed-formatting-1771878885162 into main
+eabb23e - Jack Lamb, 32 hours ago : submissions.md edited, fixed formatting
+9982587 - jal228, 32 hours ago : Moved Procfile back to the backend folder
+3fcb7e9 - jal228, 32 hours ago : Moved Procfile to root repository for dokku
+3d713d3 - Julia Salinero, 34 hours ago : Updated to use Postrgres
+f6bae4e - Jack Lamb, 34 hours ago : Merged admin into main repository
+8526e2f - Jack Lamb, 34 hours ago : Merged backend into main repository
+1a853de - Jack Lamb, 35 hours ago : Merging the frontend into the main repository
+210e56f - 徐习原, 2 days ago : Sprint4 frontend: Vue and vitest test
+052863a - misisasha013, 3 days ago : finished with everything backend related aside from unit testing
+389b08b - Julia Salinero, 5 days ago : Completed requirements using SQLite so local test file for now
+bacb6f3 - Julia Salinero, 6 days ago : Created Java project with Maven and updated pom.xml with JUnit for testing, SQLite, PostgreSQL,  and runnable jar compiler
+f3fed96 - Julia Salinero, 6 days ago : Added Sprint 3 bitbucket commit link
+b789dec - Sakshi Mishra, 6 days ago : added sakshi mishra
+7fa7717 - 徐习原, 7 days ago : Add Phase 1 Panopto demo video
+565b2c7 - Jack Lamb, 7 days ago : Jack Lamb, added Julia graded in person
+aa7eb90 - Jack Lamb, 7 days ago : Jack Lamb - added my panopto video linked into submissions.md
+2dcf481 - DrLU, 8 days ago : Initialized repository with a rudimentary README, .gitignore, and submissions.md

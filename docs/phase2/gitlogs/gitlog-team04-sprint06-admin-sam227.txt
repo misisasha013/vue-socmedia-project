@@ -1,0 +1,335 @@
+commit bb1ec08f6f9f8248e9cfe691ef5ee2dfe463087f
+Author: misisasha013 <sam227@lehigh.edu>
+Date:   Tue Mar 17 00:21:27 2026 -0400
+
+    Finished testing
+
+commit 5fa7da9b5bc3df01111dbf4bb346e896c88cea77
+Author: misisasha013 <sam227@lehigh.edu>
+Date:   Sun Mar 15 19:34:17 2026 -0400
+
+    code runs, but has not been tested yet. pretty much 90% completed
+
+commit ff373e01218dc0d4d7bc5e1e74d9010e451cd6a3
+Author: misisasha013 <sam227@lehigh.edu>
+Date:   Mon Mar 2 18:42:33 2026 -0500
+
+    added tables draft
+
+commit 0ca82ddd60a6234b0c5a24776b84e1ab60ed6f76
+Author: Julia Salinero <jus628@lehigh.edu>
+Date:   Tue Feb 24 23:58:27 2026 -0500
+
+    Final links done
+
+commit 8d1c65852261909806385e5ad8846bb98802ba81
+Merge: 837b66a d40935d
+Author: 徐习原 <xuxiyuan@jos-MacBook-Air.local>
+Date:   Tue Feb 24 23:51:56 2026 -0500
+
+    Merge branch 'main' of bitbucket.org:sml3/cse216_sp26_team_04
+
+commit d40935d6be580c9d736e62bc8b739ca67f34e616
+Author: Jack Lamb <jal228@lehigh.edu>
+Date:   Wed Feb 25 04:45:18 2026 +0000
+
+    added panopto and commits to submissions.md
+
+commit 837b66a8579eddc875c6272b83892a92a8636c5a
+Author: 徐习原 <xuxiyuan@jos-MacBook-Air.local>
+Date:   Tue Feb 24 23:43:42 2026 -0500
+
+    add video link and commits link
+
+commit 66b872bf28db090ca110d702971e9ffa7bab9c2c
+Author: Jack Lamb <jal228@lehigh.edu>
+Date:   Wed Feb 25 04:42:43 2026 +0000
+
+    removed panopto link, adding to submissions.md
+
+commit d05ed7b4a46419effc6fd1cdddaf683aba8fe7dc
+Author: 徐习原 <xuxiyuan@jos-MacBook-Air.local>
+Date:   Tue Feb 24 23:29:17 2026 -0500
+
+    Add my video and git commit links
+
+commit 14f55299321158058f8eed6aaa146a26a5218bc6
+Author: Sakshi Mishra <sam227@lehigh.edu>
+Date:   Wed Feb 25 04:26:13 2026 +0000
+
+    submissions.md edited online with Bitbucket
+
+commit ea53338ed4c75983fe304494187e041ac0009c94
+Author: Julia Salinero <jus628@lehigh.edu>
+Date:   Tue Feb 24 23:22:18 2026 -0500
+
+    Small changes to submission doc for orgnaizations
+
+commit 0ab1cadd0ed7d1d6b4c0f4bd7f81512288128d67
+Merge: 58ab5d1 3d2f259
+Author: Julia Salinero <jus628@lehigh.edu>
+Date:   Tue Feb 24 23:19:36 2026 -0500
+
+    Merge branch 'main' of bitbucket.org:sml3/cse216_sp26_team_04
+
+commit 3d2f25945d4c6fa4bfe38d48e178162243beed3e
+Author: Jack Lamb <jal228@lehigh.edu>
+Date:   Wed Feb 25 04:18:45 2026 +0000
+
+    added all teammembers gitlogs to readme
+
+commit 58ab5d17241deb55302efcc8f9ff1e39e78805ad
+Merge: d1bbb8d 14aacbd
+Author: Julia Salinero <jus628@lehigh.edu>
+Date:   Tue Feb 24 23:18:33 2026 -0500
+
+    Resolve merge conflict in submissions.md, keep Sprint 04 links
+
+commit 57c7f9af1e518dff88184cff85be009c2ed10b2f
+Author: jal228 <jal228@lehigh.edu>
+Date:   Tue Feb 24 23:17:15 2026 -0500
+
+    Update git logs for final submission
+
+commit d1bbb8dbd660b066122a1cf7a374dcaf71a861f6
+Author: Julia Salinero <jus628@lehigh.edu>
+Date:   Tue Feb 24 23:12:07 2026 -0500
+
+    Updated submission with my video and commits link
+
+commit 14aacbd4171db8e1d53a12211f82377e85d25b4b
+Author: Jack Lamb <jal228@lehigh.edu>
+Date:   Wed Feb 25 04:08:19 2026 +0000
+
+    docs/phase1/README.md edited online with Bitbucket
+
+commit a6e8ed7c37234841d178c40a856ccab45d938cce
+Author: jal228 <jal228@lehigh.edu>
+Date:   Tue Feb 24 22:49:29 2026 -0500
+
+    updated procfile
+
+commit 73b0fcb935c27310253da443822c430bb114a47d
+Merge: a16f750 e0d4e16
+Author: Jack Lamb <jal228@lehigh.edu>
+Date:   Wed Feb 25 03:41:23 2026 +0000
+
+    Merged in backend (pull request #8)
+    
+    Made some unit tests
+
+commit e0d4e161d0c7e73ec3219f0d826f51048c2b87b7
+Author: misisasha013 <sam227@lehigh.edu>
+Date:   Tue Feb 24 22:39:43 2026 -0500
+
+    Made some unit tests
+
+commit a16f75013fefe6161926caa0d10aa8db081dc637
+Author: 徐习原 <xuxiyuan@jos-MacBook-Air.local>
+Date:   Tue Feb 24 22:17:52 2026 -0500
+
+    Update frontend
+
+commit 452a7f2bccfe8a78583918223301efae38f6bc43
+Author: jal228 <jal228@lehigh.edu>
+Date:   Tue Feb 24 21:18:20 2026 -0500
+
+    Fixed the packagejson, npm run deploy script added
+
+commit 53f76d03b8200051e0cc40af0e8952258cbdaa85
+Merge: 68b6c55 ae0f0a5
+Author: Jack Lamb <jal228@lehigh.edu>
+Date:   Wed Feb 25 00:15:56 2026 +0000
+
+    Merged in backend (pull request #7)
+    
+    Made some unit tests
+
+commit ae0f0a51b932c06bfed7ce50a3ccf4f3e69b44ac
+Author: misisasha013 <sam227@lehigh.edu>
+Date:   Tue Feb 24 16:55:52 2026 -0500
+
+    Made some unit tests
+
+commit 68b6c559c7f733efd9150b5d90187477c3dd29a8
+Author: jal228 <jal228@lehigh.edu>
+Date:   Mon Feb 23 20:37:37 2026 -0500
+
+    now fixed gitlogs
+
+commit d995848c19e9831778dcfcd5909f0e97ea259df8
+Author: jal228 <jal228@lehigh.edu>
+Date:   Mon Feb 23 20:35:33 2026 -0500
+
+    updated gitlogs officially, hopefully
+
+commit 590b73ebea6be0372a9fa027bf18cb55e758671f
+Merge: abd46ad 3d713d3
+Author: Jack Lamb <jal228@lehigh.edu>
+Date:   Tue Feb 24 01:22:34 2026 +0000
+
+    Merged in admin (pull request #6)
+    
+    Updated to use Postrgres
+
+commit abd46ad08c551ae9a8e3abdd5378dbcdeafbe903
+Author: jal228 <jal228@lehigh.edu>
+Date:   Mon Feb 23 20:21:05 2026 -0500
+
+    Updated git logs
+
+commit 84cbe3d52faf1989a4f8164494aba780de38ba5a
+Merge: 5727499 c43f2dd
+Author: Jack Lamb <jal228@lehigh.edu>
+Date:   Tue Feb 24 00:30:56 2026 +0000
+
+    Merged Jack-Lamb/edited-the-phase1-readme-1771892973736 into main
+
+commit c43f2ddaaed24bcb1bef9362e8002c79eb141398
+Author: Jack Lamb <jal228@lehigh.edu>
+Date:   Tue Feb 24 00:29:46 2026 +0000
+
+    edited the phase1 readme
+
+commit 5727499229cdc90908240260b0856d6ccf764a3c
+Author: jal228 <jal228@lehigh.edu>
+Date:   Mon Feb 23 19:25:13 2026 -0500
+
+    Updated git ignore, and installed frontend, using mvn clean package
+
+commit 4ebf14e6bc125f6ccd6addf56bb52dc1a830960c
+Author: jal228 <jal228@lehigh.edu>
+Date:   Mon Feb 23 18:57:24 2026 -0500
+
+    Added phase 1 docs and readme  and disables admin tests for Postgres
+
+commit 58ac747ccf7e086f746ab36a4b039c1fba5ee199
+Author: jal228 <jal228@lehigh.edu>
+Date:   Mon Feb 23 18:56:08 2026 -0500
+
+    Add dokku-team-04 to gitignore
+
+commit f5272c7ec5e8fe56aeb02fc1dfcf0c8a1ba561c9
+Merge: 798ec38 444e85c
+Author: jal228 <jal228@lehigh.edu>
+Date:   Mon Feb 23 15:57:38 2026 -0500
+
+    Merge remote changes
+
+commit 798ec38e4fc6295cb845210acb0090df75101a58
+Author: jal228 <jal228@lehigh.edu>
+Date:   Mon Feb 23 15:55:16 2026 -0500
+
+    Added git logs for each 4 of us
+
+commit 444e85ce408aa30be2a34b55e0b773cec15fbec4
+Merge: 9982587 eabb23e
+Author: Jack Lamb <jal228@lehigh.edu>
+Date:   Mon Feb 23 20:35:22 2026 +0000
+
+    Merged Jack-Lamb/submissionsmd-edited-fixed-formatting-1771878885162 into main
+
+commit eabb23edddd1c4c7237859c612ff8026278171e2
+Author: Jack Lamb <jal228@lehigh.edu>
+Date:   Mon Feb 23 20:34:48 2026 +0000
+
+    submissions.md edited, fixed formatting
+
+commit 99825879bd8ae0f75b7a8f70bf09a995900e57b9
+Author: jal228 <jal228@lehigh.edu>
+Date:   Mon Feb 23 15:21:25 2026 -0500
+
+    Moved Procfile back to the backend folder
+
+commit 3fcb7e90087cc07dfa6144405c064a544d7c392d
+Author: jal228 <jal228@lehigh.edu>
+Date:   Mon Feb 23 15:08:56 2026 -0500
+
+    Moved Procfile to root repository for dokku
+
+commit 3d713d3370b0cb70a73a7f38b481cbfdb311116a
+Author: Julia Salinero <jus628@lehigh.edu>
+Date:   Mon Feb 23 12:50:33 2026 -0500
+
+    Updated to use Postrgres
+
+commit f6bae4e42a1aee7af19fe97a62b17076c49f4baf
+Merge: 8526e2f 389b08b
+Author: Jack Lamb <jal228@lehigh.edu>
+Date:   Mon Feb 23 17:48:44 2026 +0000
+
+    Merged admin into main repository
+
+commit 8526e2f9b5631a29813f6f2ad1f2d2b96d3306b4
+Merge: 1a853de 052863a
+Author: Jack Lamb <jal228@lehigh.edu>
+Date:   Mon Feb 23 17:48:33 2026 +0000
+
+    Merged backend into main repository
+
+commit 1a853debece519bce63ef5dd3d83311ab19f9992
+Merge: f3fed96 210e56f
+Author: Jack Lamb <jal228@lehigh.edu>
+Date:   Mon Feb 23 17:46:40 2026 +0000
+
+    Merging the frontend into the main repository
+
+commit 210e56fcce9a1afa3f48a57a142e7d3394b7b8af
+Author: 徐习原 <xuxiyuan@jos-MacBook-Air.local>
+Date:   Mon Feb 23 00:45:06 2026 -0500
+
+    Sprint4 frontend: Vue and vitest test
+
+commit 052863aac14c3deb8558442d0c9d86b1ecc502f0
+Author: misisasha013 <sam227@lehigh.edu>
+Date:   Sat Feb 21 15:49:16 2026 -0500
+
+    finished with everything backend related aside from unit testing
+
+commit 389b08b425ff500b4a960431897afed295b79bb2
+Author: Julia Salinero <jus628@lehigh.edu>
+Date:   Thu Feb 19 19:38:39 2026 -0500
+
+    Completed requirements using SQLite so local test file for now
+
+commit bacb6f37c5bbe95ad8fdc989d9d2ae465a86da4f
+Author: Julia Salinero <jus628@lehigh.edu>
+Date:   Thu Feb 19 00:39:49 2026 -0500
+
+    Created Java project with Maven and updated pom.xml with JUnit for testing, SQLite, PostgreSQL,  and runnable jar compiler
+
+commit f3fed96837594e121cb6b20ecb7e9ccfab7336c0
+Author: Julia Salinero <jus628@lehigh.edu>
+Date:   Thu Feb 19 00:22:49 2026 -0500
+
+    Added Sprint 3 bitbucket commit link
+
+commit b789decaab7409ddadd92d9fdcbf74f7cad66eae
+Author: Sakshi Mishra <sam227@lehigh.edu>
+Date:   Thu Feb 19 01:33:09 2026 +0000
+
+    added sakshi mishra
+
+commit 7fa77172132db258b9f287d1c19ea82ace880a48
+Author: 徐习原 <xuxiyuan@jos-MacBook-Air.local>
+Date:   Tue Feb 17 23:33:16 2026 -0500
+
+    Add Phase 1 Panopto demo video
+
+commit 565b2c7225faad26008ef7a79e145448aaad4f4d
+Author: Jack Lamb <jal228@lehigh.edu>
+Date:   Wed Feb 18 02:54:47 2026 +0000
+
+    Jack Lamb, added Julia graded in person
+
+commit aa7eb904e201d58ebc3fec1519b1bfd94f11cf72
+Author: Jack Lamb <jal228@lehigh.edu>
+Date:   Wed Feb 18 02:53:04 2026 +0000
+
+    Jack Lamb - added my panopto video linked into submissions.md
+
+commit 2dcf481260a24bac55df1f8633578c45583178af
+Author: DrLU <sml3@lehigh.edu>
+Date:   Mon Feb 16 19:18:06 2026 -0500
+
+    Initialized repository with a rudimentary README, .gitignore, and submissions.md

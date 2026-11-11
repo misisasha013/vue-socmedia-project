@@ -1,0 +1,24 @@
+<template>
+  <dialog ref="popup">
+    <article>
+      <header>
+        <button aria-label="Close" rel="prev" @click="g.clearPopup()"></button>
+        <p><strong>{{ g.popup.header }}</strong></p>
+      </header>
+      <p>{{ g.popup.msg }}</p>
+    </article>
+  </dialog>
+</template>
+
+<script setup lang="ts">
+import { globals } from "@/stores/globals";
+import { onMounted, ref } from "vue";
+
+const g = globals();
+const popup = ref<HTMLDialogElement | null>(null);
+
+onMounted(() => {
+  g.popup.element = popup as any;
+});
+</script>
+

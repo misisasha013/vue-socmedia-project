@@ -1,0 +1,57 @@
+3ec4c7c resolve merge conflicts with backend
+0c2d1c2 Sprint 5 backend : add notes in remindme
+7a2f7b0 - jal228, 4 minutes ago : Add Sprint 5 frontend git log
+bbb2adc - jal228, 11 minutes ago : Added Frontend API Design mockup
+1cad49c - Julia Salinero, 23 hours ago : Upadates to readMe
+c295309 - Julia Salinero Arredondo, 2 days ago : Merged in pre-main (pull request #10)
+1fba56b - Julia Salinero, 2 days ago : Began writing the phase 2 Read me
+0ca82dd - Julia Salinero, 7 days ago : Final links done
+8d1c658 - 徐习原, 7 days ago : Merge branch 'main' of bitbucket.org:sml3/cse216_sp26_team_04
+d40935d - Jack Lamb, 7 days ago : added panopto and commits to submissions.md
+837b66a - 徐习原, 7 days ago : add video link and commits link
+66b872b - Jack Lamb, 7 days ago : removed panopto link, adding to submissions.md
+d05ed7b - 徐习原, 7 days ago : Add my video and git commit links
+14f5529 - Sakshi Mishra, 7 days ago : submissions.md edited online with Bitbucket
+ea53338 - Julia Salinero, 7 days ago : Small changes to submission doc for orgnaizations
+0ab1cad - Julia Salinero, 7 days ago : Merge branch 'main' of bitbucket.org:sml3/cse216_sp26_team_04
+3d2f259 - Jack Lamb, 7 days ago : added all teammembers gitlogs to readme
+58ab5d1 - Julia Salinero, 7 days ago : Resolve merge conflict in submissions.md, keep Sprint 04 links
+57c7f9a - jal228, 7 days ago : Update git logs for final submission
+d1bbb8d - Julia Salinero, 7 days ago : Updated submission with my video and commits link
+14aacbd - Jack Lamb, 7 days ago : docs/phase1/README.md edited online with Bitbucket
+a6e8ed7 - jal228, 7 days ago : updated procfile
+73b0fcb - Jack Lamb, 7 days ago : Merged in backend (pull request #8)
+e0d4e16 - misisasha013, 7 days ago : Made some unit tests
+a16f750 - 徐习原, 7 days ago : Update frontend
+452a7f2 - jal228, 7 days ago : Fixed the packagejson, npm run deploy script added
+53f76d0 - Jack Lamb, 7 days ago : Merged in backend (pull request #7)
+ae0f0a5 - misisasha013, 7 days ago : Made some unit tests
+68b6c55 - jal228, 8 days ago : now fixed gitlogs
+d995848 - jal228, 8 days ago : updated gitlogs officially, hopefully
+590b73e - Jack Lamb, 8 days ago : Merged in admin (pull request #6)
+abd46ad - jal228, 8 days ago : Updated git logs
+84cbe3d - Jack Lamb, 8 days ago : Merged Jack-Lamb/edited-the-phase1-readme-1771892973736 into main
+c43f2dd - Jack Lamb, 8 days ago : edited the phase1 readme
+5727499 - jal228, 8 days ago : Updated git ignore, and installed frontend, using mvn clean package
+4ebf14e - jal228, 8 days ago : Added phase 1 docs and readme  and disables admin tests for Postgres
+58ac747 - jal228, 8 days ago : Add dokku-team-04 to gitignore
+f5272c7 - jal228, 8 days ago : Merge remote changes
+798ec38 - jal228, 8 days ago : Added git logs for each 4 of us
+444e85c - Jack Lamb, 8 days ago : Merged Jack-Lamb/submissionsmd-edited-fixed-formatting-1771878885162 into main
+eabb23e - Jack Lamb, 8 days ago : submissions.md edited, fixed formatting
+9982587 - jal228, 8 days ago : Moved Procfile back to the backend folder
+3fcb7e9 - jal228, 8 days ago : Moved Procfile to root repository for dokku
+3d713d3 - Julia Salinero, 8 days ago : Updated to use Postrgres
+f6bae4e - Jack Lamb, 8 days ago : Merged admin into main repository
+8526e2f - Jack Lamb, 8 days ago : Merged backend into main repository
+1a853de - Jack Lamb, 8 days ago : Merging the frontend into the main repository
+210e56f - 徐习原, 9 days ago : Sprint4 frontend: Vue and vitest test
+052863a - misisasha013, 10 days ago : finished with everything backend related aside from unit testing
+389b08b - Julia Salinero, 12 days ago : Completed requirements using SQLite so local test file for now
+bacb6f3 - Julia Salinero, 13 days ago : Created Java project with Maven and updated pom.xml with JUnit for testing, SQLite, PostgreSQL,  and runnable jar compiler
+f3fed96 - Julia Salinero, 13 days ago : Added Sprint 3 bitbucket commit link
+b789dec - Sakshi Mishra, 13 days ago : added sakshi mishra
+7fa7717 - 徐习原, 2 weeks ago : Add Phase 1 Panopto demo video
+565b2c7 - Jack Lamb, 2 weeks ago : Jack Lamb, added Julia graded in person
+aa7eb90 - Jack Lamb, 2 weeks ago : Jack Lamb - added my panopto video linked into submissions.md
+2dcf481 - DrLU, 2 weeks ago : Initialized repository with a rudimentary README, .gitignore, and submissions.md

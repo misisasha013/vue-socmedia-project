@@ -1,0 +1,60 @@
+18ef188 2026-03-31 | fixed database tables
+a56e688 2026-03-31 | fixed admin database added Phase3Table creation in creating all tables
+bf67ffa 2026-03-30 | Merged in admin (pull request #28)
+d38912f 2026-03-30 | added Phase 3 testing data, which worked, along with Invalid user,message, and reply
+f6c4f98 2026-03-23 | Added system archiecture diagram
+0c379ef 2026-03-23 | fixed liked message storage
+48acbd6 2026-03-23 | fixed details to 500
+8c01fba 2026-03-23 | merged backend to fit w premain
+2fb513c 2026-03-23 | fixed database table adjustments
+18e4c38 2026-03-23 | Merged in admin (pull request #23)
+4c75b66 2026-03-23 | adjusted note to VARCHAR 150 not text
+84d1801 2026-03-23 | Fixed menu options to include all recent additions
+b7846e0 2026-03-23 | Added Phase3 table columns
+7594cbb 2026-03-22 | Added frontend and backend fixes reply username and like counter now works
+388e475 2026-03-17 | fixed some issues
+1bc92c0 2026-03-17 | Fixed frontend errors.2
+1bfeb1e 2026-03-17 | Fixed frontend errors
+f4a83be 2026-03-18 | Merged in frontend (pull request #19)
+ddc566e 2026-03-17 | Added frontend integration logs, part of rubric
+8162759 2026-03-17 | Added unit tests
+f2adcb3 2026-03-17 | Merge pre-main into frontend, keep Phase 2 UI
+225642a 2026-03-17 | Changed routes to adjust to the backend, no more mock api use
+ca2e4fb 2026-03-17 | Added like and reply routes for both main message and replies
+b27a2ca 2026-03-16 | Added the replies and reply list/form, also added some fake messages to run locally, which work but wont fully know if it runs until backend uploaded
+b7b8a63 2026-03-16 | added a mockapi for now until backend routes are added
+24fa7d0 2026-03-16 | ran npm install
+5258972 2026-03-16 | added LikeButton vue for Phase2 likes feature
+4821a0a 2026-03-04 | added Jack Lamb panopto video link
+0739086 2026-03-03 | Updated sprint 5 Jack Lamb gitlogs
+7a2f7b0 2026-03-03 | Add Sprint 5 frontend git log
+bbb2adc 2026-03-03 | Added Frontend API Design mockup
+d40935d 2026-02-25 | added panopto and commits to submissions.md
+66b872b 2026-02-25 | removed panopto link, adding to submissions.md
+3d2f259 2026-02-25 | added all teammembers gitlogs to readme
+57c7f9a 2026-02-24 | Update git logs for final submission
+14aacbd 2026-02-25 | docs/phase1/README.md edited online with Bitbucket
+a6e8ed7 2026-02-24 | updated procfile
+73b0fcb 2026-02-25 | Merged in backend (pull request #8)
+452a7f2 2026-02-24 | Fixed the packagejson, npm run deploy script added
+53f76d0 2026-02-25 | Merged in backend (pull request #7)
+68b6c55 2026-02-23 | now fixed gitlogs
+d995848 2026-02-23 | updated gitlogs officially, hopefully
+590b73e 2026-02-24 | Merged in admin (pull request #6)
+abd46ad 2026-02-23 | Updated git logs
+84cbe3d 2026-02-24 | Merged Jack-Lamb/edited-the-phase1-readme-1771892973736 into main
+c43f2dd 2026-02-24 | edited the phase1 readme
+5727499 2026-02-23 | Updated git ignore, and installed frontend, using mvn clean package
+4ebf14e 2026-02-23 | Added phase 1 docs and readme  and disables admin tests for Postgres
+58ac747 2026-02-23 | Add dokku-team-04 to gitignore
+f5272c7 2026-02-23 | Merge remote changes
+798ec38 2026-02-23 | Added git logs for each 4 of us
+444e85c 2026-02-23 | Merged Jack-Lamb/submissionsmd-edited-fixed-formatting-1771878885162 into main
+eabb23e 2026-02-23 | submissions.md edited, fixed formatting
+9982587 2026-02-23 | Moved Procfile back to the backend folder
+3fcb7e9 2026-02-23 | Moved Procfile to root repository for dokku
+f6bae4e 2026-02-23 | Merged admin into main repository
+8526e2f 2026-02-23 | Merged backend into main repository
+1a853de 2026-02-23 | Merging the frontend into the main repository
+565b2c7 2026-02-18 | Jack Lamb, added Julia graded in person
+aa7eb90 2026-02-18 | Jack Lamb - added my panopto video linked into submissions.md

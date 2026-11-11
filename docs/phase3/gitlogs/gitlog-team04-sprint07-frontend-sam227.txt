@@ -1,0 +1,16 @@
+30e0006 - Sakshi Mishra: Merged in pre-main (pull request #21)
+86854f8 - Sakshi Mishra: Merged in frontend (pull request #25)
+249734d - misisasha013: design artifacts for frontend
+2530183 - misisasha013: updated the admin to work better
+23afa07 - Sakshi Mishra: Merged in admin (pull request #17)
+bb1ec08 - misisasha013: Finished testing
+5fa7da9 - misisasha013: code runs, but has not been tested yet. pretty much 90% completed
+a105849 - Sakshi Mishra: submissions.md edited online with Bitbucket
+e6371c2 - Sakshi Mishra: backend/Procfile edited online with Bitbucket
+ff373e0 - misisasha013: added tables draft
+14f5529 - Sakshi Mishra: submissions.md edited online with Bitbucket
+1dbd6eb - Sakshi Mishra: submissions.md edited online with Bitbucket
+e0d4e16 - misisasha013: Made some unit tests
+ae0f0a5 - misisasha013: Made some unit tests
+052863a - misisasha013: finished with everything backend related aside from unit testing
+b789dec - Sakshi Mishra: added sakshi mishra

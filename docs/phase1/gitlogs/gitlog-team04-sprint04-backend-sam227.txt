@@ -1,0 +1,7 @@
+052863a - misisasha013, 3 days ago : finished with everything backend related aside from unit testing
+f3fed96 - Julia Salinero, 6 days ago : Added Sprint 3 bitbucket commit link
+b789dec - Sakshi Mishra, 6 days ago : added sakshi mishra
+7fa7717 - 徐习原, 7 days ago : Add Phase 1 Panopto demo video
+565b2c7 - Jack Lamb, 7 days ago : Jack Lamb, added Julia graded in person
+aa7eb90 - Jack Lamb, 7 days ago : Jack Lamb - added my panopto video linked into submissions.md
+2dcf481 - DrLU, 8 days ago : Initialized repository with a rudimentary README, .gitignore, and submissions.md

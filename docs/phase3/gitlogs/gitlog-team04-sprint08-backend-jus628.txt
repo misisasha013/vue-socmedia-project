@@ -1,0 +1,38 @@
+82e4986 2026-03-30 | Merged in backend (pull request #27)
+8cb65e9 2026-03-29 | Merge remote-tracking branch 'origin/pre-main' into backend; Resolving some preovious merge conflicts
+47265c9 2026-03-29 | Updated tests for Phase 3
+d038a6c 2026-03-29 | Added memchaier sessions, user profiles and updated small stuff
+8dbed96 2026-03-24 | Merged in backend (pull request #26)
+74f7e91 2026-03-23 | Made FSM Diagram for caching plan
+62538f7 2026-03-23 | Merged in backend (pull request #22)
+111b2d1 2026-03-23 | Fixed diagram & specs, added gi/so details
+a2d784c 2026-03-22 | Uploaded an updated ERD for this pahse and some API Specificationsto have as a refrence
+e7d6ef8 2026-03-17 | Update README and submissions.md for sprint06
+272c275 2026-03-17 | Add sprint06 git logs
+29141d9 2026-03-18 | Merged in pre-main (pull request #20)
+2373744 2026-03-16 | Merged in admin (pull request #16)
+377f541 2026-03-03 | Add phase 2 readme to main readme
+856a882 2026-03-03 | Missing part of video walktrhough added
+1feb4ca 2026-03-03 | Updated sumbissions and gitlogs
+9b587ae 2026-03-03 | add sprint 5 admin and main git logs
+1df5c13 2026-03-04 | Merged in pre-main (pull request #15)
+87a132a 2026-03-04 | Merged main into pre-main
+3025f3f 2026-03-03 | Changes to readme
+ffee360 2026-03-04 | Merged main into pre-main
+3dd3e5f 2026-03-04 | docs/phase2/README.md edited online with Bitbucket to fix conflict
+3ffb85c 2026-03-04 | Merged sprint5-backend-design into pre-main
+6fa4c9f 2026-03-04 | Merged in sprint5-backend-design (pull request #14)
+ae7521c 2026-03-03 | resolve merge conflict in submissions.md
+1cad49c 2026-03-02 | Upadates to readMe
+7067d25 2026-03-03 | Merged in admin (pull request #11)
+c295309 2026-03-02 | Merged in pre-main (pull request #10)
+1fba56b 2026-03-01 | Began writing the phase 2 Read me
+0ca82dd 2026-02-24 | Final links done
+ea53338 2026-02-24 | Small changes to submission doc for orgnaizations
+0ab1cad 2026-02-24 | Merge branch 'main' of bitbucket.org:sml3/cse216_sp26_team_04
+58ab5d1 2026-02-24 | Resolve merge conflict in submissions.md, keep Sprint 04 links
+d1bbb8d 2026-02-24 | Updated submission with my video and commits link
+3d713d3 2026-02-23 | Updated to use Postrgres
+389b08b 2026-02-19 | Completed requirements using SQLite so local test file for now
+bacb6f3 2026-02-19 | Created Java project with Maven and updated pom.xml with JUnit for testing, SQLite, PostgreSQL,  and runnable jar compiler
+f3fed96 2026-02-19 | Added Sprint 3 bitbucket commit link

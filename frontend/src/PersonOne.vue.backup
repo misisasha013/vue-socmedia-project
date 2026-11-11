@@ -1,0 +1,88 @@
+<template>
+  <section>
+    <h1>Person Details</h1>
+
+    <label>Email</label>
+    <input type="text" v-model="localState.email" disabled placeholder="Loading..." />
+
+    <label>Name</label>
+    <input type="text" v-model="localState.name" placeholder="Loading..." 
+:disabled="!currentUser" />
+
+    <p class="grid" v-if="currentUser">
+      <button @click="update" :disabled="localState.buttonOff">Update</button>
+    </p>
+  </section>
+</template>
+
+<script setup lang="ts">
+import { useRoute } from "vue-router";
+import { globals } from "@/stores/globals";
+import { onBeforeMount, reactive, ref } from "vue";
+import { getCookieByName } from "@/helpers";
+
+const id: string = useRoute().params.id as string;
+
+const currentUser = ref(false);
+
+const localState = reactive({
+  loaded: false,
+  email: "",
+  name: "",
+  buttonOff: true,
+});
+
+async function loadOnePerson() {
+  let res = await fetch(`/people/${id}`, {
+    method: "GET",
+    headers: { "Content-type": "application/json; charset=UTF-8" },
+  });
+
+  if (!res.ok) {
+    globals().showPopup("Error", `The server replied: ${res.status}: ${res.statusText}`);
+    return;
+  }
+
+  let json = await res.json();
+  if (json.status === "ok") {
+    localState.email = json.data.email;
+    localState.name = json.data.name;
+    localState.loaded = true;
+    localState.buttonOff = false;
+
+    currentUser.value = ("" + json.data.id) === getCookieByName("auth.id");
+  } else {
+    globals().showPopup("Error", json.message ?? "Unexpected response");
+  }
+}
+
+async function update() {
+  if (!localState.loaded) return;
+
+  if (localState.name === "") {
+    globals().showPopup("Error", "The name cannot be blank");
+    return;
+  }
+
+  localState.buttonOff = true;
+
+  let res = await fetch(`/people`, {
+    method: "PUT",
+    body: JSON.stringify({ name: localState.name }),
+    headers: { "Content-type": "application/json; charset=UTF-8" },
+  });
+
+  localState.buttonOff = false;
+
+  if (res.ok) {
+    let json = await res.json();
+    if (json.status === "ok") globals().showPopup("Info", "Name successfully updated");
+    else globals().showPopup("Error", json.message ?? "Update failed");
+  } else {
+    globals().showPopup("Error", `The server replied: ${res.status}: ${res.statusText}`);
+  }
+}
+
+onBeforeMount(loadOnePerson);
+</script>
+

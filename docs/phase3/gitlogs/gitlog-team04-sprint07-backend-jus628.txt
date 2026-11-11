@@ -1,0 +1,34 @@
+8dbed96 - Julia Salinero Arredondo: Merged in backend (pull request #26)
+74f7e91 - Julia Salinero: Made FSM Diagram for caching plan
+62538f7 - Julia Salinero Arredondo: Merged in backend (pull request #22)
+111b2d1 - Julia Salinero: Fixed diagram & specs, added gi/so details
+a2d784c - Julia Salinero: Uploaded an updated ERD for this pahse and some API Specificationsto have as a refrence
+e7d6ef8 - Julia Salinero: Update README and submissions.md for sprint06
+272c275 - Julia Salinero: Add sprint06 git logs
+29141d9 - Julia Salinero Arredondo: Merged in pre-main (pull request #20)
+2373744 - Julia Salinero Arredondo: Merged in admin (pull request #16)
+377f541 - Julia Salinero: Add phase 2 readme to main readme
+856a882 - Julia Salinero: Missing part of video walktrhough added
+1feb4ca - Julia Salinero: Updated sumbissions and gitlogs
+9b587ae - Julia Salinero: add sprint 5 admin and main git logs
+1df5c13 - Julia Salinero Arredondo: Merged in pre-main (pull request #15)
+87a132a - Julia Salinero Arredondo: Merged main into pre-main
+3025f3f - Julia Salinero: Changes to readme
+ffee360 - Julia Salinero Arredondo: Merged main into pre-main
+3dd3e5f - Julia Salinero Arredondo: docs/phase2/README.md edited online with Bitbucket to fix conflict
+3ffb85c - Julia Salinero Arredondo: Merged sprint5-backend-design into pre-main
+6fa4c9f - Julia Salinero Arredondo: Merged in sprint5-backend-design (pull request #14)
+ae7521c - Julia Salinero: resolve merge conflict in submissions.md
+1cad49c - Julia Salinero: Upadates to readMe
+7067d25 - Julia Salinero Arredondo: Merged in admin (pull request #11)
+c295309 - Julia Salinero Arredondo: Merged in pre-main (pull request #10)
+1fba56b - Julia Salinero: Began writing the phase 2 Read me
+0ca82dd - Julia Salinero: Final links done
+ea53338 - Julia Salinero: Small changes to submission doc for orgnaizations
+0ab1cad - Julia Salinero: Merge branch 'main' of bitbucket.org:sml3/cse216_sp26_team_04
+58ab5d1 - Julia Salinero: Resolve merge conflict in submissions.md, keep Sprint 04 links
+d1bbb8d - Julia Salinero: Updated submission with my video and commits link
+3d713d3 - Julia Salinero: Updated to use Postrgres
+389b08b - Julia Salinero: Completed requirements using SQLite so local test file for now
+bacb6f3 - Julia Salinero: Created Java project with Maven and updated pom.xml with JUnit for testing, SQLite, PostgreSQL,  and runnable jar compiler
+f3fed96 - Julia Salinero: Added Sprint 3 bitbucket commit link

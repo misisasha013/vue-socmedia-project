@@ -1,0 +1,55 @@
+f6c4f98 - jal228: Added system archiecture diagram
+0c379ef - jal228: fixed liked message storage
+8c01fba - jal228: merged backend to fit w premain
+2fb513c - jal228: fixed database table adjustments
+18e4c38 - Jack Lamb: Merged in admin (pull request #23)
+4c75b66 - jal228: adjusted note to VARCHAR 150 not text
+84d1801 - jal228: Fixed menu options to include all recent additions
+b7846e0 - jal228: Added Phase3 table columns
+7594cbb - jal228: Added frontend and backend fixes reply username and like counter now works
+388e475 - jal228: fixed some issues
+1bc92c0 - jal228: Fixed frontend errors.2
+1bfeb1e - jal228: Fixed frontend errors
+f4a83be - Jack Lamb: Merged in frontend (pull request #19)
+ddc566e - jal228: Added frontend integration logs, part of rubric
+8162759 - jal228: Added unit tests
+f2adcb3 - jal228: Merge pre-main into frontend, keep Phase 2 UI
+225642a - jal228: Changed routes to adjust to the backend, no more mock api use
+ca2e4fb - jal228: Added like and reply routes for both main message and replies
+b27a2ca - jal228: Added the replies and reply list/form, also added some fake messages to run locally, which work but wont fully know if it runs until backend uploaded
+b7b8a63 - jal228: added a mockapi for now until backend routes are added
+24fa7d0 - jal228: ran npm install
+5258972 - jal228: added LikeButton vue for Phase2 likes feature
+4821a0a - Jack Lamb: added Jack Lamb panopto video link
+0739086 - jal228: Updated sprint 5 Jack Lamb gitlogs
+7a2f7b0 - jal228: Add Sprint 5 frontend git log
+bbb2adc - jal228: Added Frontend API Design mockup
+d40935d - Jack Lamb: added panopto and commits to submissions.md
+66b872b - Jack Lamb: removed panopto link, adding to submissions.md
+3d2f259 - Jack Lamb: added all teammembers gitlogs to readme
+57c7f9a - jal228: Update git logs for final submission
+14aacbd - Jack Lamb: docs/phase1/README.md edited online with Bitbucket
+a6e8ed7 - jal228: updated procfile
+73b0fcb - Jack Lamb: Merged in backend (pull request #8)
+452a7f2 - jal228: Fixed the packagejson, npm run deploy script added
+53f76d0 - Jack Lamb: Merged in backend (pull request #7)
+68b6c55 - jal228: now fixed gitlogs
+d995848 - jal228: updated gitlogs officially, hopefully
+590b73e - Jack Lamb: Merged in admin (pull request #6)
+abd46ad - jal228: Updated git logs
+84cbe3d - Jack Lamb: Merged Jack-Lamb/edited-the-phase1-readme-1771892973736 into main
+c43f2dd - Jack Lamb: edited the phase1 readme
+5727499 - jal228: Updated git ignore, and installed frontend, using mvn clean package
+4ebf14e - jal228: Added phase 1 docs and readme  and disables admin tests for Postgres
+58ac747 - jal228: Add dokku-team-04 to gitignore
+f5272c7 - jal228: Merge remote changes
+798ec38 - jal228: Added git logs for each 4 of us
+444e85c - Jack Lamb: Merged Jack-Lamb/submissionsmd-edited-fixed-formatting-1771878885162 into main
+eabb23e - Jack Lamb: submissions.md edited, fixed formatting
+9982587 - jal228: Moved Procfile back to the backend folder
+3fcb7e9 - jal228: Moved Procfile to root repository for dokku
+f6bae4e - Jack Lamb: Merged admin into main repository
+8526e2f - Jack Lamb: Merged backend into main repository
+1a853de - Jack Lamb: Merging the frontend into the main repository
+565b2c7 - Jack Lamb: Jack Lamb, added Julia graded in person
+aa7eb90 - Jack Lamb: Jack Lamb - added my panopto video linked into submissions.md

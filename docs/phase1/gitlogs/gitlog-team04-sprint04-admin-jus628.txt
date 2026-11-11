@@ -1,0 +1,9 @@
+3d713d3 - Julia Salinero, 34 hours ago : Updated to use Postrgres
+389b08b - Julia Salinero, 5 days ago : Completed requirements using SQLite so local test file for now
+bacb6f3 - Julia Salinero, 6 days ago : Created Java project with Maven and updated pom.xml with JUnit for testing, SQLite, PostgreSQL,  and runnable jar compiler
+f3fed96 - Julia Salinero, 6 days ago : Added Sprint 3 bitbucket commit link
+b789dec - Sakshi Mishra, 6 days ago : added sakshi mishra
+7fa7717 - 徐习原, 7 days ago : Add Phase 1 Panopto demo video
+565b2c7 - Jack Lamb, 7 days ago : Jack Lamb, added Julia graded in person
+aa7eb90 - Jack Lamb, 7 days ago : Jack Lamb - added my panopto video linked into submissions.md
+2dcf481 - DrLU, 8 days ago : Initialized repository with a rudimentary README, .gitignore, and submissions.md
